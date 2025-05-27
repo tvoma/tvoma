@@ -1,5 +1,9 @@
 ## Bonjour 👋
 
+I'm an experienced, passionate and independent web developer from France 🇫🇷, offering my skills to my customers since 2021. 
+
+You are looking for your future dev? I'm specialized in Front-End development, working with JavaScript and their modern frameworks (React, Next.js, Vue, Prisma, Node, etc...) and I can easily learn new tools from the JavaScript universe. I'm quite sensitive to UI and I'm not scared of weird Figma mockups.
+
 <!--
 **tvoma/tvoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
